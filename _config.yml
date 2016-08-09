@@ -1,0 +1,14 @@
+layout_spectrum: 0.2295747953467071
+typography_spectrum: 0.2596249294001609
+color:
+  brandStrength: 0.8862286391668022
+  lightness: 0.5316577875055373
+  saturation: 0.834323447663337
+  rhythmicContrast: 0.9371000332757831
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Style Online
