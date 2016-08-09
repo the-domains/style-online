@@ -6,9 +6,9 @@ color:
   saturation: 0.834323447663337
   rhythmicContrast: 0.9371000332757831
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Style Online
